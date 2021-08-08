@@ -1,0 +1,56 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel1{
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    border: 1px solid crimson;
+}
+.travel1 img{
+width:100%;
+}
+.travel1 hr{
+    width:230px;
+}
+.travel1 h5,.travel1 p{
+    margin-left: 20px;
+}
+.movie-head{
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding:6px 22px;
+    display:inline-block;
+    width:100%;
+}
+.movie-head i{
+    float: right;
+}
+.movie-text span{
+    color:gold;
+}
+.envilist{
+    margin-top: 15px;
+}
+.envilist h4{
+    padding:8px;
+    border-bottom: 1px solid cyan;
+}
+.envilist p{
+    margin-top: 10px;
+}
